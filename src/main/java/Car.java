@@ -21,4 +21,12 @@ public class Car {
     public void setCapacity(float capacity) {
         this.capacity = capacity;
     }
+
+    @Override
+    public String toString() {
+        return "Car{" +
+                "make='" + make + '\'' +
+                ", capacity=" + capacity +
+                '}';
+    }
 }
