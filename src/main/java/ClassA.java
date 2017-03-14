@@ -11,5 +11,7 @@ public class ClassA {
         person1.setAge(20);
 
         System.out.println(person1);
+
+        System.out.println("dupa");
     }
 }
