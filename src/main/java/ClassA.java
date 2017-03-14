@@ -19,5 +19,7 @@ public class ClassA {
         System.out.println("feature");
 
         System.out.println("feature900");
+
+        System.out.println("code100");
     }
 }
