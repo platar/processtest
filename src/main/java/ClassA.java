@@ -26,5 +26,7 @@ public class ClassA {
 
         System.out.println("code101");
 
+        System.out.println("feature999");
+
     }
 }
