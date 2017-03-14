@@ -17,5 +17,7 @@ public class ClassA {
         System.out.println("LKS");
 
         System.out.println("feature");
+
+        System.out.println("feature900");
     }
 }
