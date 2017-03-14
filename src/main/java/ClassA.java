@@ -15,5 +15,7 @@ public class ClassA {
         System.out.println("dupa");
 
         System.out.println("LKS");
+
+        System.out.println("feature");
     }
 }
