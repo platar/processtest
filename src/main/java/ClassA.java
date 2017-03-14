@@ -13,5 +13,7 @@ public class ClassA {
         System.out.println(person1);
 
         System.out.println("dupa");
+
+        System.out.println("LKS");
     }
 }
